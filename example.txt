@@ -1,0 +1,5 @@
+This is a simple text file.
+We will search for text in this file.
+Rust is a programming language.
+Programming in Rust is fun.
+I hope you enjoy learning Rust!
